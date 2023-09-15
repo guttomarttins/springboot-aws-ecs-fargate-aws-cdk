@@ -1,0 +1,26 @@
+br/com/gt/aws_project02/enums/EventType.java
+ br.com.gt.aws_project02.enums.EventType
+br/com/gt/aws_project02/AwsProject02Application.java
+ br.com.gt.aws_project02.AwsProject02Application
+br/com/gt/aws_project02/config/DynamoDBConfig.java
+ br.com.gt.aws_project02.config.DynamoDBConfig
+br/com/gt/aws_project02/model/ProductEvent.java
+ br.com.gt.aws_project02.model.ProductEvent
+br/com/gt/aws_project02/repository/ProductEventLogRepository.java
+ br.com.gt.aws_project02.repository.ProductEventLogRepository
+br/com/gt/aws_project02/model/Envelope.java
+ br.com.gt.aws_project02.model.Envelope
+br/com/gt/aws_project02/config/JmsConfig.java
+ br.com.gt.aws_project02.config.JmsConfig
+br/com/gt/aws_project02/model/ProductEventKey.java
+ br.com.gt.aws_project02.model.ProductEventKey
+br/com/gt/aws_project02/model/SnsMessage.java
+ br.com.gt.aws_project02.model.SnsMessage
+br/com/gt/aws_project02/service/ProductEventConsumer.java
+ br.com.gt.aws_project02.service.ProductEventConsumer
+br/com/gt/aws_project02/model/ProductEventLogDto.java
+ br.com.gt.aws_project02.model.ProductEventLogDto
+br/com/gt/aws_project02/controller/ProductEventLogController.java
+ br.com.gt.aws_project02.controller.ProductEventLogController
+br/com/gt/aws_project02/model/ProductEventLog.java
+ br.com.gt.aws_project02.model.ProductEventLog
