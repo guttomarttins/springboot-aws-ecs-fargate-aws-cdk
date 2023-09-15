@@ -1,4 +1,11 @@
 # springboot-aws-ecs-fargate-aws-cdk
+- Amazon VPC
+- Amazon ECS
+- Application Load Balancer
+- AWS Fargate
+- AWS SNS
+- AWS RDS
+- AWS CDK
 
 cdk list
 --lista todas as stacks criadas
